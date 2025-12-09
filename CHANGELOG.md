@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.4.1](https://github.com/scottmckendry/commitscribe/compare/v0.4.0...v0.4.1) (2025-09-30)
+
+
+### Bug Fixes
+
+* split context input in two ([55a2a15](https://github.com/scottmckendry/commitscribe/commit/55a2a154d2adba7b00a531c08d11111e91bb55a2))
+
+## [0.4.0](https://github.com/scottmckendry/commitscribe/compare/v0.3.0...v0.4.0) (2025-09-30)
+
+
+### Features
+
+* **deps:** bump npm dependencies ([87ffdf5](https://github.com/scottmckendry/commitscribe/commit/87ffdf56bb11170fd10b2e99715dc5efbf64b531))
+* optionally fetch context from a filepath ([d5a93ee](https://github.com/scottmckendry/commitscribe/commit/d5a93ee55edc34a47b47f74bd78552c4a8884260))
+
+## [0.3.0](https://github.com/scottmckendry/commitscribe/compare/v0.2.7...v0.3.0) (2025-07-07)
+
+
+### Features
+
+* **git:** add support for empty commits ([7744f99](https://github.com/scottmckendry/commitscribe/commit/7744f9971e990ec9134599fd783f5b66d009cedb))
+
 ## [0.2.7](https://github.com/scottmckendry/commitscribe/compare/v0.2.6...v0.2.7) (2025-01-07)
 
 
